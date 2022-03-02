@@ -1,4 +1,4 @@
-![Aevoa Studios Logo](https://imgur.com/FPDgwiC)
+![Aevoa Studios Logo](https://imgur.com/FPDgwiC.png)
 
 # Udacity Landing Page
 This is a Submission for the Udacity Advanced CSS, HTML Course, if you encounter any Bugs or have Feature Requests, please head over to the GitHub Issue tab and fill out the Form.
